@@ -8,7 +8,7 @@ Merhaba! Ben Nehir - hobilerimi, öğrenme yolculuğumu ve kişisel gelişimle i
 - Doğum günüm: 22 Mart
 - İlgi alanlarım: Fotoğrafçılık, kitap okumak, el işleri, zaman yönetimi
 - Şehrim: Tokat
-
+  
 ---
 
 ## 📝 Blogum Neden Var?
