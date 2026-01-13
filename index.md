@@ -19,9 +19,16 @@ Bu bir affiliate link olabilir, satış olduğunda küçük komisyon alırım.
 
 ---
 
+## ⏰ ZAMAN YÖNETİMİ İÇİN 3 BASİT YÖNTEM
+- *Pomodoro Tekniği*: 25 dakika çalış, 5 dakika ara ver - 4 döngüden sonra 15-30 dakika uzun ara! Bu yöntemle konsantrasyonun çok artar.
+- *Öncelik Sıralaması (Eisenhower Matrisi)*: İşleri "Önemli/Acil" olarak böl - sadece önemli olanları öncelik ver, acil ama önemsiz şeyleri atla veya devret!
+- *Günlük Planlama*: Her günün başında 5 dakika ayırarak bugün yapacağın 3 ana işi yaz - sadece onları bitirmeye odaklan, fazla iş koyma kendine!
+
+---
+
 ## ✨ YAKINDA GELEN İÇERİKLER
 - Evde yapabileceğin kolay el işleri
-- Zaman yönetimi için 3 basit yöntem
+- Sağlıklı beslenme ipuçları
 
 ---
 
