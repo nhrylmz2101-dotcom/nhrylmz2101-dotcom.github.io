@@ -20,3 +20,6 @@ Hoş geldiniz! Bu alanda hobilerim, öğrenme yolları ve kişisel gelişimle il
 
 ## 📩 BENİMLE İLETİŞİME GEÇİN
 Sorularınız veya önerileriniz varsa bana ulaşabilirsiniz!
+
+---
+[Hakkımda Sayfamı Ziyaret Edin](hakkimda.md)
